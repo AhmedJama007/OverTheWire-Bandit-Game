@@ -30,3 +30,4 @@ In keeping with the OverTheWire community guidelines, this documentation does no
 - [Level 0 to Level 1](level%200.md)
 - [Level 1 to Level 2](level%201.md)
 - [Level 1 to Level 2](level%202.md)
+- - [Level 1 to Level 2](level%203.md)
