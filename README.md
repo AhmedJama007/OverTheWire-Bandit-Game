@@ -37,4 +37,4 @@ In keeping with the OverTheWire community guidelines, this documentation does no
 - [Level 7 to Level 8](level%207.md)
 - [Level 8 to Level 9](level%208.md)
 - [Level 9 to Level 10](level%209.md)
-
+- [Level 10 to Level 11](level%2010.md)
