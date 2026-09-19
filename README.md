@@ -24,3 +24,9 @@ I chose Bandit to build practical Linux skills through hands-on work rather than
 ## Disclaimer
 
 In keeping with the OverTheWire community guidelines, this documentation does not include passwords, flags, or direct solutions. It focuses on the concepts covered, the tools used, and what I took away from each challenge.
+
+## Levels
+
+- [Level 0 to Level 1](level%200.md)
+- [Level 1 to Level 2](level%201.md)
+- [Level 1 to Level 2](level%202.md)
