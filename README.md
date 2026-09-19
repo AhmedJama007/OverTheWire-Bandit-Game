@@ -32,3 +32,4 @@ In keeping with the OverTheWire community guidelines, this documentation does no
 - [Level 2 to Level 3](level%202.md)
 - [Level 3 to Level 4](level%203.md)
 - [Level 4 to Level 5](level%204.md)
+- [Level 5 to Level 6](level%205.md)
