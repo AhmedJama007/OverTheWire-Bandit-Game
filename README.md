@@ -35,3 +35,5 @@ In keeping with the OverTheWire community guidelines, this documentation does no
 - [Level 5 to Level 6](level%205.md)
 - [Level 6 to Level 7](level%206.md)
 - [Level 7 to Level 8](level%207.md)
+- [Level 8 to Level 9](level%208.md)
+
