@@ -40,3 +40,4 @@ In keeping with the OverTheWire community guidelines, this documentation does no
 - [Level 10 to Level 11](level-10.md)
 - [Level 11 to Level 12](level-11.md)
 - [Level 12 to Level 13](level-12.md)
+- [Level 13 to Level 14](level-12.md)
